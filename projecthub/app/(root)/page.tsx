@@ -12,10 +12,10 @@ const page = () => {
 
     <Boxes/>
     <h1 className={cn("md:text-4xl text-xl text-white relative z-20")}>
-      Tailwind is Awesome
+      Moonpreneur Project Ideas
     </h1>
     <p className="text-center mt-2 text-neutral-300 relative z-20">
-      Framer motion is the best animation library ngl
+      Get some inovative ideas and also do amazing contibutions.....
     </p>
 
       <SearchForm/>
